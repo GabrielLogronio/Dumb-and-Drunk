@@ -1,0 +1,80 @@
+Event	ID	Name			Wwise Object Path	Notes
+	56469244	EffortGotUp			\Default Work Unit\EffortGotUp	
+	159685034	OpenMenuPause			\Default Work Unit\Menu\OpenMenuPause	
+	1183067778	Key			\Default Work Unit\Items\Key	
+	1434238328	ObstacleNYC			\Default Work Unit\Obstacles\ObstacleNYC	
+	1734924772	CloseMenuPause			\Default Work Unit\Menu\CloseMenuPause	
+	1792625333	YouFell			\Default Work Unit\Audience\YouFell	
+	1924693583	DontFell			\Default Work Unit\Audience\DontFell	
+	2033488664	TalkPlayer			\Default Work Unit\TalkPlayer	
+	2258304609	ClickStart			\Default Work Unit\Menu\ClickStart	
+	2385628198	Footsteps			\Default Work Unit\Footsteps	
+	2467796810	PickupGood			\Default Work Unit\Items\PickupGood	
+	2786096973	ClickGeneral			\Default Work Unit\Menu\ClickGeneral	
+	3257506471	Impact			\Default Work Unit\Impact	
+	3332259699	ObstacleParis			\Default Work Unit\Obstacles\ObstacleParis	
+	3416598638	ThrowingUp			\Default Work Unit\Audience\ThrowingUp	
+	3625187538	GotUp			\Default Work Unit\Audience\GotUp	
+	4152723942	PickupBad			\Default Work Unit\Items\PickupBad	
+
+Switch Group	ID	Name			Wwise Object Path	Notes
+	580044789	NYCObstacles			\Default Work Unit\NYCObstacles	
+	1069431850	Player			\Default Work Unit\Player	
+	1107149412	ParisObstacles			\Default Work Unit\ParisObstacles	
+	2215982805	Keys			\Default Work Unit\Keys	
+
+Switch	ID	Name	Switch Group			Notes
+	1783394646	OldWoman	NYCObstacles			
+	2312725759	DrunkHomeless	NYCObstacles			
+	2591076664	HotDogMan	NYCObstacles			
+	2837639985	Taxi	NYCObstacles			
+	3353713168	HotDogWagon	NYCObstacles			
+	3378138780	FireExtinguisher	NYCObstacles			
+	2188949036	Player2	Player			
+	2188949039	Player1	Player			
+	51596611	FlowerVase	ParisObstacles			
+	952687098	PeopleTalking	ParisObstacles			
+	1582918959	BikeBaguette	ParisObstacles			
+	2559194501	Mime	ParisObstacles			
+	2859006487	BaguetteBox	ParisObstacles			
+	4258714584	ArtistDancing	ParisObstacles			
+	2215982740	Key2	Keys			
+	2215982741	Key3	Keys			
+	2215982743	Key1	Keys			
+
+Game Parameter	ID	Name			Wwise Object Path	Notes
+	1473240539	GettinUp			\Default Work Unit\GettinUp	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	28942165	YouFell	Y:\Desktop\Dumb_and_Drunk_Unity\Dumb&Drunk\.cache\Linux\SFX\YouFell_CCF81EC9.wem		\Actor-Mixer Hierarchy\Default Work Unit\Audience\YouFell		333152
+	96959732	Curse_7	Y:\Desktop\Dumb_and_Drunk_Unity\Dumb&Drunk\.cache\Linux\SFX\Curse_7_56D34C19.wem		\Actor-Mixer Hierarchy\Default Work Unit\VoicesPlayer\PlayerCurse\Player1\Curse_7		220480
+	182254629	Curse_2	Y:\Desktop\Dumb_and_Drunk_Unity\Dumb&Drunk\.cache\Linux\SFX\Curse_2_56D34C19.wem		\Actor-Mixer Hierarchy\Default Work Unit\VoicesPlayer\PlayerCurse\Player2\Curse_2		557376
+	211389766	Scared_Vomit	Y:\Desktop\Dumb_and_Drunk_Unity\Dumb&Drunk\.cache\Linux\SFX\Scared_Vomit_A687E177.wem		\Actor-Mixer Hierarchy\Default Work Unit\Audience\Scared_Vomit		396452
+	232832004	Laugh_Ch1_2	Y:\Desktop\Dumb_and_Drunk_Unity\Dumb&Drunk\.cache\Linux\SFX\Laugh_Ch1_2_ACBE3120.wem		\Actor-Mixer Hierarchy\Default Work Unit\VoicesPlayer\PlayerJoking\Player1\Laugh_Ch1_2		817088
+	290557654	Laugh_Ch2_2	Y:\Desktop\Dumb_and_Drunk_Unity\Dumb&Drunk\.cache\Linux\SFX\Laugh_Ch2_2_56D34C19.wem		\Actor-Mixer Hierarchy\Default Work Unit\VoicesPlayer\PlayerJoking\Player2\Laugh_Ch2_2		1146944
+	310794147	Effort_4	Y:\Desktop\Dumb_and_Drunk_Unity\Dumb&Drunk\.cache\Linux\SFX\Effort_4_56D34C19.wem		\Actor-Mixer Hierarchy\Default Work Unit\VoicesPlayer\PlayerEffort\Player2\Effort_4		544960
+	335832914	Curse_5	Y:\Desktop\Dumb_and_Drunk_Unity\Dumb&Drunk\.cache\Linux\SFX\Curse_5_56D34C19.wem		\Actor-Mixer Hierarchy\Default Work Unit\VoicesPlayer\PlayerCurse\Player1\Curse_5		251840
+	369889709	Curse_3	Y:\Desktop\Dumb_and_Drunk_Unity\Dumb&Drunk\.cache\Linux\SFX\Curse_3_56D34C19.wem		\Actor-Mixer Hierarchy\Default Work Unit\VoicesPlayer\PlayerCurse\Player2\Curse_3		375488
+	374324675	Sforzo_2	Y:\Desktop\Dumb_and_Drunk_Unity\Dumb&Drunk\.cache\Linux\SFX\Sforzo_2_56D34C19.wem		\Actor-Mixer Hierarchy\Default Work Unit\VoicesPlayer\PlayerEffort\Player2\Sforzo_2		637696
+	377898619	Footsteps	Y:\Desktop\Dumb_and_Drunk_Unity\Dumb&Drunk\.cache\Linux\SFX\ImpactMA_56D34C19.wem		\Actor-Mixer Hierarchy\Default Work Unit\Footsteps		302144
+	456557852	Sforzo_3	Y:\Desktop\Dumb_and_Drunk_Unity\Dumb&Drunk\.cache\Linux\SFX\Sforzo_3_16306E1E.wem		\Actor-Mixer Hierarchy\Default Work Unit\VoicesPlayer\PlayerEffort\Player1\Sforzo_3		360844
+	487529196	Laugh_Ch2_3	Y:\Desktop\Dumb_and_Drunk_Unity\Dumb&Drunk\.cache\Linux\SFX\Laugh_Ch2_3_56D34C19.wem		\Actor-Mixer Hierarchy\Default Work Unit\VoicesPlayer\PlayerJoking\Player2\Laugh_Ch2_3		1302592
+	505141620	Sforzo_1	Y:\Desktop\Dumb_and_Drunk_Unity\Dumb&Drunk\.cache\Linux\SFX\Sforzo_1_56D34C19.wem		\Actor-Mixer Hierarchy\Default Work Unit\VoicesPlayer\PlayerEffort\Player2\Sforzo_1		436096
+	509949906	Curse_4	Y:\Desktop\Dumb_and_Drunk_Unity\Dumb&Drunk\.cache\Linux\SFX\Curse_4_56D34C19.wem		\Actor-Mixer Hierarchy\Default Work Unit\VoicesPlayer\PlayerCurse\Player2\Curse_4		349632
+	562568776	Effort_6	Y:\Desktop\Dumb_and_Drunk_Unity\Dumb&Drunk\.cache\Linux\SFX\Effort_6_56D34C19.wem		\Actor-Mixer Hierarchy\Default Work Unit\VoicesPlayer\PlayerEffort\Player1\Effort_6		376640
+	571173559	Curse_6	Y:\Desktop\Dumb_and_Drunk_Unity\Dumb&Drunk\.cache\Linux\SFX\Curse_6_56D34C19.wem		\Actor-Mixer Hierarchy\Default Work Unit\VoicesPlayer\PlayerCurse\Player1\Curse_6		210624
+	612149151	Applause	Y:\Desktop\Dumb_and_Drunk_Unity\Dumb&Drunk\.cache\Linux\SFX\Applause_14114E8D.wem		\Actor-Mixer Hierarchy\Default Work Unit\Audience\NotFell\Applause		1397832
+	612338546	Effort_5	Y:\Desktop\Dumb_and_Drunk_Unity\Dumb&Drunk\.cache\Linux\SFX\Effort_5_56D34C19.wem		\Actor-Mixer Hierarchy\Default Work Unit\VoicesPlayer\PlayerEffort\Player2\Effort_5		487744
+	627948039	ClickGeneral	Y:\Desktop\Dumb_and_Drunk_Unity\Dumb&Drunk\.cache\Linux\SFX\Click_56D34C19.wem		\Actor-Mixer Hierarchy\Default Work Unit\Menu\ClickGeneral		161856
+	652411690	Key_1	Y:\Desktop\Dumb_and_Drunk_Unity\Dumb&Drunk\.cache\Linux\SFX\Key_1_56D34C19.wem		\Actor-Mixer Hierarchy\Default Work Unit\Items\Key\Key_1		363660
+	671247547	Impact_2	Y:\Desktop\Dumb_and_Drunk_Unity\Dumb&Drunk\.cache\Linux\SFX\Impact_2_56D34C19.wem		\Actor-Mixer Hierarchy\Default Work Unit\Impact_2		161344
+	757348022	BadPickup	Y:\Desktop\Dumb_and_Drunk_Unity\Dumb&Drunk\.cache\Linux\SFX\BadPickup_EFCA1DB8.wem		\Actor-Mixer Hierarchy\Default Work Unit\Items\BadPickup		470464
+	796574648	Key_3	Y:\Desktop\Dumb_and_Drunk_Unity\Dumb&Drunk\.cache\Linux\SFX\Key_3_56D34C19.wem		\Actor-Mixer Hierarchy\Default Work Unit\Items\Key\Key_3		624064
+	829905624	Laugh_Ch1_1	Y:\Desktop\Dumb_and_Drunk_Unity\Dumb&Drunk\.cache\Linux\SFX\Laugh_Ch1_1_842F4D91.wem		\Actor-Mixer Hierarchy\Default Work Unit\VoicesPlayer\PlayerJoking\Player1\Laugh_Ch1_1		682048
+	870945440	Effort_7	Y:\Desktop\Dumb_and_Drunk_Unity\Dumb&Drunk\.cache\Linux\SFX\Effort_7_56D34C19.wem		\Actor-Mixer Hierarchy\Default Work Unit\VoicesPlayer\PlayerEffort\Player1\Effort_7		451904
+	911634278	Effort_8	Y:\Desktop\Dumb_and_Drunk_Unity\Dumb&Drunk\.cache\Linux\SFX\Effort_8_56D34C19.wem		\Actor-Mixer Hierarchy\Default Work Unit\VoicesPlayer\PlayerEffort\Player1\Effort_8		441152
+	928144525	Curse_1	Y:\Desktop\Dumb_and_Drunk_Unity\Dumb&Drunk\.cache\Linux\SFX\Curse_1_56D34C19.wem		\Actor-Mixer Hierarchy\Default Work Unit\VoicesPlayer\PlayerCurse\Player2\Curse_1		609344
+	958468104	Curse_8	Y:\Desktop\Dumb_and_Drunk_Unity\Dumb&Drunk\.cache\Linux\SFX\Curse_8_56D34C19.wem		\Actor-Mixer Hierarchy\Default Work Unit\VoicesPlayer\PlayerCurse\Player1\Curse_8		276032
+	999571786	Laugh_Ch1	Y:\Desktop\Dumb_and_Drunk_Unity\Dumb&Drunk\.cache\Linux\SFX\Laugh_Ch1_56D34C19.wem		\Actor-Mixer Hierarchy\Default Work Unit\VoicesPlayer\PlayerJoking\Player1\Laugh_Ch1		325568
+	1008375067	Key_2	Y:\Desktop\Dumb_and_Drunk_Unity\Dumb&Drunk\.cache\Linux\SFX\Key_2_56D34C19.wem		\Actor-Mixer Hierarchy\Default Work Unit\Items\Key\Key_2		549632
+

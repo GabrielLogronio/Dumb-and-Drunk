@@ -1,0 +1,409 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SoundBanksInfo Platform="Linux" BasePlatform="Linux" SchemaVersion="11" SoundbankVersion="132">
+	<RootPaths>
+		<ProjectRoot>/Users/Skippo/Library/Application Support/Wwise2018/Bottles/wwise/dosdevices/y:/Desktop/Dumb_and_Drunk_Unity/Dumb&amp;Drunk/</ProjectRoot>
+		<SourceFilesRoot>/Users/Skippo/Library/Application Support/Wwise2018/Bottles/wwise/dosdevices/y:/Desktop/Dumb_and_Drunk_Unity/Dumb&amp;Drunk/.cache/Linux/</SourceFilesRoot>
+		<SoundBanksRoot>/Users/Skippo/Library/Application Support/Wwise2018/Bottles/wwise/dosdevices/y:/Desktop/Dumb_and_Drunk_Unity/Dumb&amp;Drunk/GeneratedSoundBanks/Linux/</SoundBanksRoot>
+		<ExternalSourcesInputFile></ExternalSourcesInputFile>
+		<ExternalSourcesOutputRoot>/Users/Skippo/Library/Application Support/Wwise2018/Bottles/wwise/dosdevices/y:/Desktop/Dumb_and_Drunk_Unity/Dumb&amp;Drunk/GeneratedSoundBanks/Linux</ExternalSourcesOutputRoot>
+	</RootPaths>
+	<DialogueEvents/>
+	<StreamedFiles/>
+	<MediaFilesNotInAnyBank/>
+	<SoundBanks>
+		<SoundBank Id="1355168291" Language="SFX">
+			<ObjectPath>Init</ObjectPath>
+			<ShortName>Init</ShortName>
+			<Path>Init.bnk</Path>
+		</SoundBank>
+		<SoundBank Id="3161908922" Language="SFX">
+			<ObjectPath>\SoundBanks\Default Work Unit\Main</ObjectPath>
+			<ShortName>Main</ShortName>
+			<Path>Main.bnk</Path>
+			<IncludedEvents>
+				<Event Id="2786096973" Name="ClickGeneral" ObjectPath="\Events\Default Work Unit\Menu\ClickGeneral"/>
+				<Event Id="2258304609" Name="ClickStart" ObjectPath="\Events\Default Work Unit\Menu\ClickStart" MaxAttenuation="0.000000"/>
+				<Event Id="1734924772" Name="CloseMenuPause" ObjectPath="\Events\Default Work Unit\Menu\CloseMenuPause" MaxAttenuation="0.000000"/>
+				<Event Id="1924693583" Name="DontFell" ObjectPath="\Events\Default Work Unit\Audience\DontFell" MaxAttenuation="0.000000"/>
+				<Event Id="56469244" Name="EffortGotUp" ObjectPath="\Events\Default Work Unit\EffortGotUp"/>
+				<Event Id="2385628198" Name="Footsteps" ObjectPath="\Events\Default Work Unit\Footsteps"/>
+				<Event Id="3625187538" Name="GotUp" ObjectPath="\Events\Default Work Unit\Audience\GotUp"/>
+				<Event Id="3257506471" Name="Impact" ObjectPath="\Events\Default Work Unit\Impact"/>
+				<Event Id="1183067778" Name="Key" ObjectPath="\Events\Default Work Unit\Items\Key"/>
+				<Event Id="1434238328" Name="ObstacleNYC" ObjectPath="\Events\Default Work Unit\Obstacles\ObstacleNYC"/>
+				<Event Id="3332259699" Name="ObstacleParis" ObjectPath="\Events\Default Work Unit\Obstacles\ObstacleParis"/>
+				<Event Id="159685034" Name="OpenMenuPause" ObjectPath="\Events\Default Work Unit\Menu\OpenMenuPause" MaxAttenuation="0.000000"/>
+				<Event Id="4152723942" Name="PickupBad" ObjectPath="\Events\Default Work Unit\Items\PickupBad"/>
+				<Event Id="2467796810" Name="PickupGood" ObjectPath="\Events\Default Work Unit\Items\PickupGood" MaxAttenuation="0.000000"/>
+				<Event Id="2033488664" Name="TalkPlayer" ObjectPath="\Events\Default Work Unit\TalkPlayer"/>
+				<Event Id="3416598638" Name="ThrowingUp" ObjectPath="\Events\Default Work Unit\Audience\ThrowingUp"/>
+				<Event Id="1792625333" Name="YouFell" ObjectPath="\Events\Default Work Unit\Audience\YouFell"/>
+			</IncludedEvents>
+			<IncludedMemoryFiles>
+				<File Id="28942165" Language="SFX">
+					<ShortName>YouFell.wav</ShortName>
+					<Path>SFX/YouFell_CCF81EC9.wem</Path>
+				</File>
+				<File Id="96959732" Language="SFX">
+					<ShortName>Curse_7.wav</ShortName>
+					<Path>SFX/Curse_7_56D34C19.wem</Path>
+				</File>
+				<File Id="182254629" Language="SFX">
+					<ShortName>Curse_2.wav</ShortName>
+					<Path>SFX/Curse_2_56D34C19.wem</Path>
+				</File>
+				<File Id="211389766" Language="SFX">
+					<ShortName>Scared_Vomit.wav</ShortName>
+					<Path>SFX/Scared_Vomit_A687E177.wem</Path>
+				</File>
+				<File Id="232832004" Language="SFX">
+					<ShortName>Laugh_Ch1_2.wav</ShortName>
+					<Path>SFX/Laugh_Ch1_2_ACBE3120.wem</Path>
+				</File>
+				<File Id="290557654" Language="SFX">
+					<ShortName>Laugh_Ch2_2.wav</ShortName>
+					<Path>SFX/Laugh_Ch2_2_56D34C19.wem</Path>
+				</File>
+				<File Id="310794147" Language="SFX">
+					<ShortName>Effort_4.wav</ShortName>
+					<Path>SFX/Effort_4_56D34C19.wem</Path>
+				</File>
+				<File Id="335832914" Language="SFX">
+					<ShortName>Curse_5.wav</ShortName>
+					<Path>SFX/Curse_5_56D34C19.wem</Path>
+				</File>
+				<File Id="369889709" Language="SFX">
+					<ShortName>Curse_3.wav</ShortName>
+					<Path>SFX/Curse_3_56D34C19.wem</Path>
+				</File>
+				<File Id="374324675" Language="SFX">
+					<ShortName>Sforzo_2.wav</ShortName>
+					<Path>SFX/Sforzo_2_56D34C19.wem</Path>
+				</File>
+				<File Id="377898619" Language="SFX">
+					<ShortName>ImpactMA.wav</ShortName>
+					<Path>SFX/ImpactMA_56D34C19.wem</Path>
+				</File>
+				<File Id="456557852" Language="SFX">
+					<ShortName>Sforzo_3.wav</ShortName>
+					<Path>SFX/Sforzo_3_16306E1E.wem</Path>
+				</File>
+				<File Id="487529196" Language="SFX">
+					<ShortName>Laugh_Ch2_3.wav</ShortName>
+					<Path>SFX/Laugh_Ch2_3_56D34C19.wem</Path>
+				</File>
+				<File Id="505141620" Language="SFX">
+					<ShortName>Sforzo_1.wav</ShortName>
+					<Path>SFX/Sforzo_1_56D34C19.wem</Path>
+				</File>
+				<File Id="509949906" Language="SFX">
+					<ShortName>Curse_4.wav</ShortName>
+					<Path>SFX/Curse_4_56D34C19.wem</Path>
+				</File>
+				<File Id="562568776" Language="SFX">
+					<ShortName>Effort_6.wav</ShortName>
+					<Path>SFX/Effort_6_56D34C19.wem</Path>
+				</File>
+				<File Id="571173559" Language="SFX">
+					<ShortName>Curse_6.wav</ShortName>
+					<Path>SFX/Curse_6_56D34C19.wem</Path>
+				</File>
+				<File Id="612149151" Language="SFX">
+					<ShortName>Applause.wav</ShortName>
+					<Path>SFX/Applause_14114E8D.wem</Path>
+				</File>
+				<File Id="612338546" Language="SFX">
+					<ShortName>Effort_5.wav</ShortName>
+					<Path>SFX/Effort_5_56D34C19.wem</Path>
+				</File>
+				<File Id="627948039" Language="SFX">
+					<ShortName>Click.wav</ShortName>
+					<Path>SFX/Click_56D34C19.wem</Path>
+				</File>
+				<File Id="652411690" Language="SFX">
+					<ShortName>Key_1.wav</ShortName>
+					<Path>SFX/Key_1_56D34C19.wem</Path>
+				</File>
+				<File Id="671247547" Language="SFX">
+					<ShortName>Impact_2.wav</ShortName>
+					<Path>SFX/Impact_2_56D34C19.wem</Path>
+				</File>
+				<File Id="757348022" Language="SFX">
+					<ShortName>BadPickup.wav</ShortName>
+					<Path>SFX/BadPickup_EFCA1DB8.wem</Path>
+				</File>
+				<File Id="796574648" Language="SFX">
+					<ShortName>Key_3.wav</ShortName>
+					<Path>SFX/Key_3_56D34C19.wem</Path>
+				</File>
+				<File Id="829905624" Language="SFX">
+					<ShortName>Laugh_Ch1_1.wav</ShortName>
+					<Path>SFX/Laugh_Ch1_1_842F4D91.wem</Path>
+				</File>
+				<File Id="870945440" Language="SFX">
+					<ShortName>Effort_7.wav</ShortName>
+					<Path>SFX/Effort_7_56D34C19.wem</Path>
+				</File>
+				<File Id="911634278" Language="SFX">
+					<ShortName>Effort_8.wav</ShortName>
+					<Path>SFX/Effort_8_56D34C19.wem</Path>
+				</File>
+				<File Id="928144525" Language="SFX">
+					<ShortName>Curse_1.wav</ShortName>
+					<Path>SFX/Curse_1_56D34C19.wem</Path>
+				</File>
+				<File Id="958468104" Language="SFX">
+					<ShortName>Curse_8.wav</ShortName>
+					<Path>SFX/Curse_8_56D34C19.wem</Path>
+				</File>
+				<File Id="999571786" Language="SFX">
+					<ShortName>Laugh_Ch1.wav</ShortName>
+					<Path>SFX/Laugh_Ch1_56D34C19.wem</Path>
+				</File>
+				<File Id="1008375067" Language="SFX">
+					<ShortName>Key_2.wav</ShortName>
+					<Path>SFX/Key_2_56D34C19.wem</Path>
+				</File>
+			</IncludedMemoryFiles>
+		</SoundBank>
+		<SoundBank Id="3529644050" Language="SFX">
+			<ObjectPath>\SoundBanks\Default Work Unit\Paris</ObjectPath>
+			<ShortName>Paris</ShortName>
+			<Path>Paris.bnk</Path>
+		</SoundBank>
+		<SoundBank Id="3991942870" Language="SFX">
+			<ObjectPath>\SoundBanks\Default Work Unit\Music</ObjectPath>
+			<ShortName>Music</ShortName>
+			<Path>Music.bnk</Path>
+			<IncludedEvents>
+				<Event Id="3991942870" Name="Music" ObjectPath="\Events\Default Work Unit\MusicEvents\Music"/>
+			</IncludedEvents>
+			<IncludedMemoryFiles>
+				<File Id="16844521" Language="SFX">
+					<ShortName>Scratch\Scratch_PerStacco.wav</ShortName>
+					<Path>SFX/Scratch/Scratch_PerStacco_8956FC97.wem</Path>
+				</File>
+				<File Id="25974780" Language="SFX">
+					<ShortName>74\Moog_74.wav</ShortName>
+					<Path>SFX/74/Moog_74_8956FC97.wem</Path>
+				</File>
+				<File Id="90952974" Language="SFX">
+					<ShortName>Verse\BassSlap_Verse.wav</ShortName>
+					<Path>SFX/Verse/BassSlap_Verse_8956FC97.wem</Path>
+				</File>
+				<File Id="105409256" Language="SFX">
+					<ShortName>The only one.wav</ShortName>
+					<Path>SFX/The only one_8956FC97.wem</Path>
+				</File>
+				<File Id="108314707" Language="SFX">
+					<ShortName>HipHop\Sax1.wav</ShortName>
+					<Path>SFX/HipHop/Sax1_8956FC97.wem</Path>
+				</File>
+				<File Id="163342050" Language="SFX">
+					<ShortName>Intro\Kick_Intro.wav</ShortName>
+					<Path>SFX/Intro/Kick_Intro_8956FC97.wem</Path>
+				</File>
+				<File Id="167153080" Language="SFX">
+					<ShortName>theChamp_1.wav</ShortName>
+					<Path>SFX/theChamp_1_8956FC97.wem</Path>
+				</File>
+				<File Id="172370246" Language="SFX">
+					<ShortName>Rit\Clap_Rit.wav</ShortName>
+					<Path>SFX/Rit/Clap_Rit_8956FC97.wem</Path>
+				</File>
+				<File Id="180902968" Language="SFX">
+					<ShortName>HipHop\Bass_HipHop.wav</ShortName>
+					<Path>SFX/HipHop/Bass_HipHop_8956FC97.wem</Path>
+				</File>
+				<File Id="192350217" Language="SFX">
+					<ShortName>the Champ.wav</ShortName>
+					<Path>SFX/the Champ_8956FC97.wem</Path>
+				</File>
+				<File Id="223619743" Language="SFX">
+					<ShortName>Verse\Synth_Verse.wav</ShortName>
+					<Path>SFX/Verse/Synth_Verse_8956FC97.wem</Path>
+				</File>
+				<File Id="228795708" Language="SFX">
+					<ShortName>74\HH_74.wav</ShortName>
+					<Path>SFX/74/HH_74_8956FC97.wem</Path>
+				</File>
+				<File Id="320557144" Language="SFX">
+					<ShortName>74\Sin_74.wav</ShortName>
+					<Path>SFX/74/Sin_74_8956FC97.wem</Path>
+				</File>
+				<File Id="333604651" Language="SFX">
+					<ShortName>Rit\Synth_Rit.wav</ShortName>
+					<Path>SFX/Rit/Synth_Rit_8956FC97.wem</Path>
+				</File>
+				<File Id="348201723" Language="SFX">
+					<ShortName>real motherfucker_1.wav</ShortName>
+					<Path>SFX/real motherfucker_1_8956FC97.wem</Path>
+				</File>
+				<File Id="350901085" Language="SFX">
+					<ShortName>Finale\Rhodes_Fin.wav</ShortName>
+					<Path>SFX/Finale/Rhodes_Fin_8956FC97.wem</Path>
+				</File>
+				<File Id="359681385" Language="SFX">
+					<ShortName>HipHop\Sax2.wav</ShortName>
+					<Path>SFX/HipHop/Sax2_8956FC97.wem</Path>
+				</File>
+				<File Id="385962218" Language="SFX">
+					<ShortName>Intro\Snare_Intro.wav</ShortName>
+					<Path>SFX/Intro/Snare_Intro_8956FC97.wem</Path>
+				</File>
+				<File Id="387458113" Language="SFX">
+					<ShortName>Rit\HH_Rit.wav</ShortName>
+					<Path>SFX/Rit/HH_Rit_8956FC97.wem</Path>
+				</File>
+				<File Id="389502048" Language="SFX">
+					<ShortName>Verse\Choir2_Verse.wav</ShortName>
+					<Path>SFX/Verse/Choir2_Verse_8956FC97.wem</Path>
+				</File>
+				<File Id="402787741" Language="SFX">
+					<ShortName>Rit\HHNoise_Rit.wav</ShortName>
+					<Path>SFX/Rit/HHNoise_Rit_8956FC97.wem</Path>
+				</File>
+				<File Id="450649615" Language="SFX">
+					<ShortName>Real motherfucker.wav</ShortName>
+					<Path>SFX/Real motherfucker_8956FC97.wem</Path>
+				</File>
+				<File Id="472842228" Language="SFX">
+					<ShortName>yeah.wav</ShortName>
+					<Path>SFX/yeah_8956FC97.wem</Path>
+				</File>
+				<File Id="481249387" Language="SFX">
+					<ShortName>Verse\HHNoise_Verse.wav</ShortName>
+					<Path>SFX/Verse/HHNoise_Verse_8956FC97.wem</Path>
+				</File>
+				<File Id="487042093" Language="SFX">
+					<ShortName>Verse\SynthFrase_Verse.wav</ShortName>
+					<Path>SFX/Verse/SynthFrase_Verse_8956FC97.wem</Path>
+				</File>
+				<File Id="488442550" Language="SFX">
+					<ShortName>Rit\Moog_Rit.wav</ShortName>
+					<Path>SFX/Rit/Moog_Rit_8956FC97.wem</Path>
+				</File>
+				<File Id="518768440" Language="SFX">
+					<ShortName>Verse\Kick_Verse.wav</ShortName>
+					<Path>SFX/Verse/Kick_Verse_8956FC97.wem</Path>
+				</File>
+				<File Id="531903965" Language="SFX">
+					<ShortName>Rit\Rhodes_Rit.wav</ShortName>
+					<Path>SFX/Rit/Rhodes_Rit_8956FC97.wem</Path>
+				</File>
+				<File Id="552235749" Language="SFX">
+					<ShortName>Verse\Moog_Verse.wav</ShortName>
+					<Path>SFX/Verse/Moog_Verse_8956FC97.wem</Path>
+				</File>
+				<File Id="558877834" Language="SFX">
+					<ShortName>Stacco\Kick_Stacco.wav</ShortName>
+					<Path>SFX/Stacco/Kick_Stacco_8956FC97.wem</Path>
+				</File>
+				<File Id="583092572" Language="SFX">
+					<ShortName>74\BassSlap_74.wav</ShortName>
+					<Path>SFX/74/BassSlap_74_8956FC97.wem</Path>
+				</File>
+				<File Id="587095022" Language="SFX">
+					<ShortName>Finale\BassSlap_Fin.wav</ShortName>
+					<Path>SFX/Finale/BassSlap_Fin_8956FC97.wem</Path>
+				</File>
+				<File Id="595146723" Language="SFX">
+					<ShortName>HipHop\Moog_HipHop.wav</ShortName>
+					<Path>SFX/HipHop/Moog_HipHop_8956FC97.wem</Path>
+				</File>
+				<File Id="607732022" Language="SFX">
+					<ShortName>HipHop\SynthFrase_HipHop.wav</ShortName>
+					<Path>SFX/HipHop/SynthFrase_HipHop_8956FC97.wem</Path>
+				</File>
+				<File Id="701522990" Language="SFX">
+					<ShortName>Verse\Snare_Verse+Stacco.wav</ShortName>
+					<Path>SFX/Verse/Snare_Verse+Stacco_8956FC97.wem</Path>
+				</File>
+				<File Id="758590583" Language="SFX">
+					<ShortName>Verse\Choir1_Verse.wav</ShortName>
+					<Path>SFX/Verse/Choir1_Verse_8956FC97.wem</Path>
+				</File>
+				<File Id="786114912" Language="SFX">
+					<ShortName>Rit\BassSlap_Rit.wav</ShortName>
+					<Path>SFX/Rit/BassSlap_Rit_8956FC97.wem</Path>
+				</File>
+				<File Id="815986329" Language="SFX">
+					<ShortName>74\Clap_74.wav</ShortName>
+					<Path>SFX/74/Clap_74_8956FC97.wem</Path>
+				</File>
+				<File Id="828692649" Language="SFX">
+					<ShortName>feels good.wav</ShortName>
+					<Path>SFX/feels good_8956FC97.wem</Path>
+				</File>
+				<File Id="857736409" Language="SFX">
+					<ShortName>HipHop\HH_HipHop.wav</ShortName>
+					<Path>SFX/HipHop/HH_HipHop_8956FC97.wem</Path>
+				</File>
+				<File Id="868780141" Language="SFX">
+					<ShortName>Intro\Pad_Intro.wav</ShortName>
+					<Path>SFX/Intro/Pad_Intro_8956FC97.wem</Path>
+				</File>
+				<File Id="895273903" Language="SFX">
+					<ShortName>HipHop\Clap_HipHop.wav</ShortName>
+					<Path>SFX/HipHop/Clap_HipHop_8956FC97.wem</Path>
+				</File>
+				<File Id="909098337" Language="SFX">
+					<ShortName>the One.wav</ShortName>
+					<Path>SFX/the One_8956FC97.wem</Path>
+				</File>
+				<File Id="918824902" Language="SFX">
+					<ShortName>74\Kick_74.wav</ShortName>
+					<Path>SFX/74/Kick_74_8956FC97.wem</Path>
+				</File>
+				<File Id="942631601" Language="SFX">
+					<ShortName>74\Wave_74.wav</ShortName>
+					<Path>SFX/74/Wave_74_8956FC97.wem</Path>
+				</File>
+				<File Id="949679150" Language="SFX">
+					<ShortName>Scratch\Scratch_Verse.wav</ShortName>
+					<Path>SFX/Scratch/Scratch_Verse_8956FC97.wem</Path>
+				</File>
+				<File Id="950501854" Language="SFX">
+					<ShortName>Verse\SinLow.wav</ShortName>
+					<Path>SFX/Verse/SinLow_8956FC97.wem</Path>
+				</File>
+				<File Id="953085001" Language="SFX">
+					<ShortName>Rit\Kick_Rit.wav</ShortName>
+					<Path>SFX/Rit/Kick_Rit_8956FC97.wem</Path>
+				</File>
+				<File Id="993105796" Language="SFX">
+					<ShortName>Scratch\Scratch2_Verse.wav</ShortName>
+					<Path>SFX/Scratch/Scratch2_Verse_8956FC97.wem</Path>
+				</File>
+				<File Id="1000448165" Language="SFX">
+					<ShortName>74\HHNoise_74.wav</ShortName>
+					<Path>SFX/74/HHNoise_74_8956FC97.wem</Path>
+				</File>
+				<File Id="1032061444" Language="SFX">
+					<ShortName>74\Rhodes_74.wav</ShortName>
+					<Path>SFX/74/Rhodes_74_8956FC97.wem</Path>
+				</File>
+				<File Id="1047484972" Language="SFX">
+					<ShortName>Rit\Snare_Rit+HipHop.wav</ShortName>
+					<Path>SFX/Rit/Snare_Rit+HipHop_8956FC97.wem</Path>
+				</File>
+				<File Id="1051068775" Language="SFX">
+					<ShortName>Scratch\Scratch_PerRit.wav</ShortName>
+					<Path>SFX/Scratch/Scratch_PerRit_8956FC97.wem</Path>
+				</File>
+				<File Id="1053109590" Language="SFX">
+					<ShortName>HipHop\Kick_HipHop.wav</ShortName>
+					<Path>SFX/HipHop/Kick_HipHop_8956FC97.wem</Path>
+				</File>
+				<File Id="1058889311" Language="SFX">
+					<ShortName>Verse\Sin_Verse.wav</ShortName>
+					<Path>SFX/Verse/Sin_Verse_8956FC97.wem</Path>
+				</File>
+				<File Id="1065191719" Language="SFX">
+					<ShortName>74\Snare_74.wav</ShortName>
+					<Path>SFX/74/Snare_74_8956FC97.wem</Path>
+				</File>
+			</IncludedMemoryFiles>
+		</SoundBank>
+	</SoundBanks>
+</SoundBanksInfo>

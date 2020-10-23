@@ -1,0 +1,47 @@
+(CELL OR PC)EVENTS
+(CELL) AlmostFall - VUOTO
+(CELL) DontFell - *tss - awww (deluso)
+(CELL) GotUp - AH!
+(CELL) Recover - VUOTO
+(CELL) RecoverFalling - WOW femminile
+(CELL) ThrowingUp - Rutto + voci spaventate
+(CELL) YouFell - batteria + risate e applausi
+
+(PC) DropKey - fischio decrescente
+(PC) Key - pling
+(PC) PickupGood - tling + bibita stappata
+
+(PC) ClickGeneral - goccia
+(PC) Clock - VUOTO
+(PC) OpenGate - catene 
+(PC) Gate_Opera - voce lirica (da dividere)
+(PC) Waiting - tum tum elettronico
+
+(PC) Music - VUOTO
+
+(PC) Bottle_Woosh - lancio di bottiglia
+(PC) Fountain_Loop - acqua che scorre
+(PC) Car - macchina accende e passa
+(PC) GrannyImpact & GrannyVoice - batteria + voce vecchia & borbottio vario
+(PC) TrampImpact & TrampVoice - batteria + voce barbone & borbottio vario
+(PC) ObstacleNYC - batteria
+(PC) ObstacleNYC2 - misto
+
+EffortGotUp - VUOTO
+Footseps - VUOTO
+HiccupPlayer - VUOTO
+LaughPlayer - VUOTO
+(CELL) PlayerReady - voce
+
+
+
+
+
+cell ha i file dei suoni
+ogni classe da pc chiama NetworkServerManager.getInstance().PlaySoundOnController(int i, string s); ##################  i = layer - 8
+
+
+
+
+
+car: solo movimento, non accensione
